@@ -1,6 +1,6 @@
 # Graph Algorithms
 
-Solution for Ex-1 System Programming 2
+Solution for Ex-2 System Programming 2
 
 ## Summary of Methods
 
