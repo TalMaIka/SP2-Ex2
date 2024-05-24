@@ -53,7 +53,7 @@ namespace ariel
         friend void operator++(Graph& graph); // Increment all the elements in the graph by 1.
         friend void operator--(Graph& graph); // Decrements all the elements in the graph by 1.
 
-        friend bool operator!=(Graph& graph, Graph& other);
+        friend bool operator!=(Graph& graph, Graph& other); // Return true if the graphs are not equal.
     };
 }
 #endif
