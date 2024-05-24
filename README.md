@@ -46,9 +46,9 @@ Solution for Ex-2 System Programming 2
   
 - **!= Operator Override (Graph Inequality Comparison):** Checks if two graphs are not equal.
   
-- **++ Unary Operator Override (Increment Graph):** Increments all elements of the graph by 1.
+- **++ Operator Override (Increment Graph):** Increments all elements of the graph by 1.
   
-- **-- Unary Operator Override (Decrement Graph):** Decrements all elements of the graph by 1.
+- **-- Operator Override (Decrement Graph):** Decrements all elements of the graph by 1.
 
 ## Usage
 
